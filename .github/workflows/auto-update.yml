@@ -1,8 +1,9 @@
 name: Auto Update Zeotvyash M3U
 
+
 on:
   schedule:
-    - cron: '0 */6 * * *'  # every 6 hours (UTC)
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 permissions:
