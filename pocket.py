@@ -1,6 +1,6 @@
 import urllib.request
 import urllib.error
-url = 'https://tiny.cc/Pocket-TV'
+url = 'https://tamil-m3u-b58859.gitlab.io/'
 
 headers = {
     'User-Agent': 'OTT Navigator'
